@@ -3,7 +3,7 @@
 
 ## &#9313;制作サイトの説明（40文字程度）：
 ### Xserverのデプロイ環境がまだ整っていないので、今回は.netを使ったwindowsアプリでmysqlの接続アプリを開発しました。プログラム言語はC#を使いました。テーブルに一行ずつデータをSQLコマンドで追加するのが面倒だと思ったので、コピペで貼り付けた複数のデータ行を一気に追加できるように開発しました。
-https://github.com/TatsuyaFukunaga/makeTable/issues/1#issue-2746814633
+[デモ動画](https://github.com/TatsuyaFukunaga/makeTable/issues/1#issue-2746814633)
 [プログラム本体](assets/makeTable.zip)
 
 ## &#9314;工夫した点・こだわった点：
